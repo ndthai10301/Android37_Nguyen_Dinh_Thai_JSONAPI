@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JsonExample_Mr_Thai</string>
+    <string name="title_str">Reading Json-> raw: weather.json</string>
+</resources>
